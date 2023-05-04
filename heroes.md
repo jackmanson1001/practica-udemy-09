@@ -1,7 +1,7 @@
 # Heroes
 
 * Superman
-* Batman
+* Bateria de Robin y Batman
 * Aquaman
 * Mujer Maravilla
 * Linterna Verde
