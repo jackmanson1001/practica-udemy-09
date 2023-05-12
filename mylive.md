@@ -1,6 +1,9 @@
 # LIST LANGUAGE PROGRAMING
 - PHP
 - JAVA
-- PERL
 - RUBY
 - C
+- C#
+- C++
+- javascript
+- RUSH
