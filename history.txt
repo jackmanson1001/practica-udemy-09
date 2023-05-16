@@ -1,0 +1,1000 @@
+  303  ssh-add ~/.ssh/id_ed25519
+  304  clear
+  305  cat ~/.ssh/id_ed25519.pub
+  306  clear
+  307  git status
+  308  ls
+  309  cd Documents/
+  310  lls
+  311  clear
+  312  ll
+  313  cd practicaGit2023/
+  314  ll
+  315  clear
+  316  ll
+  317  git s
+  318  git lg
+  319  git config --global -l
+  320  ====clera
+  321  clear
+  322  pwd
+  323  cd ..
+  324  ll
+  325  git remote -v
+  326  git remote add origin git@github.com:jackmanson1001/practica-udemy-09.git
+  327  git clone git@github.com:jackmanson1001/practica-udemy-09.git
+  328  ll
+  329  cd practica-udemy-09/
+  330  ll
+  331  git s
+  332  clear
+  333  git s
+  334  git lg
+  335  ll
+  336  cat README.md 
+  337  git s
+  338  clear
+  339  git lg
+  340  ll
+  341  touch comentarios.md
+  342  vi comentarios.md 
+  343  git s
+  344  cat comenrai
+  345  cat comentarios.md 
+  346  git push origin master
+  347  git remote -v
+  348  git add comentarios.md 
+  349  git s
+  350  git commit -m "Agregando los comentarios"
+  351  git s
+  352  git lg
+  353  git push origin master
+  354  history
+  355  clear
+  356  git remote -v
+  357  git lg
+  358  history
+  359  python --version
+  360  python3 --version
+  361  clear
+  362  pex
+  363  pwd
+  364  cd Documents/
+  365  lls
+  366  ll
+  367  clear
+  368  ll
+  369  cd practicaGit2023/
+  370  ll
+  371  clear
+  372  ls
+  373  git s
+  374  git lg
+  375  ping www.google.com
+  376  clear
+  377  ls
+  378  git diff
+  379  git lg
+  380  git s
+  381  git add instalaciones.md 
+  382  git s
+  383  git commit -m "Agregando mejora del front"
+  384  git s
+  385  git lg
+  386  git remote -v
+  387  cd ..
+  388  ll
+  389  cd practica-udemy-09/
+  390  git s
+  391  git remote -v
+  392  git lg
+  393  clear
+  394  vi instalaciones.md
+  395  git s
+  396  git add instalaciones.md 
+  397  git commit -m "agragando nuevas instalaciones"
+  398  git s
+  399  git lg
+  400  vi instalaciones.md 
+  401  clear
+  402  git diff
+  403  vi instalaciones.md 
+  404  git diff
+  405  vi instalaciones.md 
+  406  clear
+  407  git diff
+  408  git s
+  409  git lg
+  410  clear
+  411  git diff
+  412  git status
+  413  git add .
+  414  git s
+  415  git status
+  416  clear
+  417  git diff -staged
+  418  git diff --staged
+  419  git diff
+  420  git s
+  421  clear
+  422  git s
+  423  vi instalaciones.md 
+  424  git add .
+  425  git s
+  426  git add -A
+  427  git s
+  428  git status
+  429  git s
+  430  git add -- .
+  431  git s
+  432  git commit -m "agregando nueva mejora"
+  433  git s
+  434  git status
+  435  clear
+  436  git diff
+  437  git s
+  438  git commit -am "asdf"
+  439  git s
+  440  git lg
+  441  git commit --amend -m "Instalaciones actualizadas"
+  442  git lg
+  443  git commit --amend -m "Notas de mejora a instalaciones""
+  444  git s
+  445  git lg
+  446  git commit --amend -m "Instalaciones actualizadas y notas"
+  447  git lg
+  448  clear
+  449  git lg
+  450  git reflow
+  451  git reflog
+  452  clear
+  453  git lg
+  454  git s
+  455  git status
+  456  git reset --soft HEAD^
+  457  git s
+  458  git diff
+  459  git diff --staged
+  460  git lg
+  461  ls
+  462  git s
+  463  vi instalaciones.md 
+  464  git s
+  465  git diff
+  466  git diff --staged
+  467  git add .
+  468  git diff
+  469  git s
+  470  git diff --staged
+  471  git reset instalaciones.md
+  472  git diff
+  473  git s
+  474  git diff --staged
+  475  git add .
+  476  git s
+  477  git diff
+  478  git diff --staged
+  479  git lg
+  480  git commit -m "Agredando mejora de Instalaciones"
+  481  git s
+  482  git lg
+  483  git add -A
+  484  gir s
+  485  git s
+  486  clear
+  487  git lg
+  488  ll
+  489  git fetch
+  490  git pull origin master
+  491  git pull
+  492  git lg
+  493  git s
+  494  git push origin master
+  495  git fetch
+  496  git pull
+  497  git s
+  498  git diff
+  499  git lg
+  500  git branch
+  501  history
+  502  git pull origin berlin
+  503  git branch
+  504  git pull
+  505  git branch
+  506  git checkout berlin
+  507  git branch
+  508  git s
+  509  git lg
+  510  ll
+  511  git s
+  512  git status
+  513  git checkout main
+  514  git checkout master
+  515  ll
+  516  git pull origin hola
+  517  git pull
+  518  git checkout hola
+  519  ll
+  520  git branch
+  521  git lg
+  522  git checkout master
+  523  git s
+  524  ll
+  525  git s
+  526  git status
+  527  clear
+  528  git s
+  529  git stash list
+  530  git tag
+  531  git show
+  532  git show v.0.0.2
+  533  git lg
+  534  git tag -a v.3.0.1 -m "Version 3.0.0 mejorad"
+  535  git tag
+  536  git tag superMejora
+  537  git tag
+  538  git lg
+  539  clear
+  540  git config --global -l
+  541  git status -s
+  542  git status -b
+  543  git status -sb
+  544  git status
+  545  git s
+  546  clear
+  547  git s
+  548  git lg
+  549  git s
+  550  git status
+  551  exit
+  552  git show
+  553  cd Documents/
+  554  ll
+  555  cd practica-udemy-09/
+  556  lls
+  557  clear
+  558  lls
+  559  ll
+  560  clear
+  561  git show
+  562  clear
+  563  git lg
+  564  git s
+  565  ll
+  566  clear
+  567  git log instalaciones.md
+  568  git reflow
+  569  git reflog
+  570  clear
+  571  git show
+  572  git log instalaciones.md
+  573  ll
+  574  git log history.txt
+  575  git branch
+  576  git checkout hola
+  577  git s
+  578  git branch
+  579  ll
+  580  clear
+  581  git s
+  582  clear
+  583  vi jass.md
+  584  git log jass.md
+  585  pwd
+  586  cd Documents/
+  587  ll
+  588  cd practica-udemy-09/
+  589  ls
+  590  ll
+  591  git branch
+  592  git checkout master 
+  593  git s
+  594  git lg
+  595  git diff
+  596  clear
+  597  git stash --list
+  598  git stash list
+  599  git s
+  600  vi manson.md
+  601  git s
+  602  vi lenguajes.txt
+  603  git s
+  604  git diff
+  605  git add jass.md 
+  606  git s
+  607  git status
+  608  git commit -m "Ingresando requerimientos jass"
+  609  gtis
+  610  git s
+  611  clear
+  612  git s
+  613  git stash
+  614  git s
+  615  git branch
+  616  git stash
+  617  git s
+  618  git reset --soft HEAD^
+  619  git s
+  620  git lg
+  621  clear
+  622  git s
+  623  git stash
+  624  git stash list
+  625  git s
+  626  git stash pop
+  627  git s
+  628  git stash list
+  629  ll
+  630  vi borrar.md 
+  631  clear
+  632  git s
+  633  git stash --include-untracked
+  634  git s
+  635  git stash list
+  636  git stash pop
+  637  git s
+  638  ll
+  639  vi mapas.html 
+  640  git s
+  641  git stash --include-untracked
+  642  git s
+  643  git stash list
+  644  vi notas.md 
+  645  git s
+  646  git stash
+  647  git s
+  648  git list
+  649  git stash list
+  650  clear
+  651  git stash list
+  652  ll
+  653  vi raiz.md 
+  654  git s
+  655  git stash save "Mejorando raiz"
+  656  git stash list
+  657  git s
+  658  vi README.md 
+  659  gikt s
+  660  git s
+  661  clear
+  662  agit s
+  663  git s
+  664  git checkout -- .
+  665  git s
+  666  git ll
+  667  ll
+  668  ls -al
+  669  cat .gitignore 
+  670  vi margi.log
+  671  git s
+  672  clear
+  673  git s
+  674  cat .gitignore 
+  675  ll
+  676  git log heroes.md
+  677  git lg heroes.md
+  678  clear
+  679  ll
+  680  clear
+  681  ls
+  682  cp contacto.html contacto.txt
+  683  vi contacto.txt
+  684  git s
+  685  git add contacto.txt 
+  686  git s
+  687  git restore contacto.txt
+  688  git s
+  689  git reset contacto.txt
+  690  git s
+  691  git add .
+  692  git s
+  693  gti s
+  694  git s
+  695  git stash
+  696  git s
+  697  git stash list
+  698  git stash apply stash@{2}
+  699  git s
+  700  git stash
+  701  gti s
+  702  clear
+  703  git stash list
+  704  gti s
+  705  git s
+  706  git tag
+  707  git show
+  708  git show v2.0.0
+  709  clear
+  710  git lg
+  711  git push origin master
+  712  git fetch
+  713  clear
+  714  git lg
+  715  git reflog
+  716  clear
+  717  git s
+  718  git lg
+  719  clear
+  720  git reflog
+  721  clear
+  722  git lg
+  723  git reset --hard 52c9666
+  724  git lg
+  725  git s
+  726  git reset --hard 52c9666
+  727  git lg
+  728  clear
+  729  git s
+  730  git lg
+  731  ll
+  732  git reset --hard 88a423d
+  733  git s
+  734  git lg
+  735  clear
+  736  git lg
+  737  ll
+  738  git reflog
+  739  git reset --hard 9e3d938
+  740  git s
+  741  clear
+  742  ll
+  743  git lg
+  744  clear
+  745  vi destruir-elmundo.md
+  746  git add .
+  747  git commit -m "agregando destuir el munto
+  748  "
+  749  git lg
+  750  clear
+  751  git s
+  752  history
+  753  clear
+  754  ls
+  755  ll
+  756  git mv destruir-elmundo.md contruir-elmundo.md
+  757  git s
+  758  git status
+  759  git commit -m 
+  760  git commit -m "grabar el mundo renombrado"
+  761  git s
+  762  clear
+  763  git s
+  764  git lg
+  765  clear
+  766  ll
+  767  git rm contruir-elmundo.md 
+  768  git s
+  769  git reset --hard
+  770  git s
+  771  ll
+  772  clear
+  773  ll
+  774  git rm contruir-elmundo.md 
+  775  git s
+  776  git commit -m "eliminando contruir el mundo"
+  777  git s
+  778  git lg
+  779  clear
+  780  ll
+  781  git cp contacto.html anotadojass.md
+  782  ll
+  783  clear
+  784  ll
+  785  GIT S
+  786  girt s
+  787  git s
+  788  git lg
+  789  git reset --hard d89480c
+  790  git s
+  791  clear
+  792  ll
+  793  mv contruir-elmundo.md construir-mundo.md
+  794  git s
+  795  cp mapas.html micas.md
+  796  git s
+  797  git add .
+  798  git s
+  799  git commit -m "historiu de contruir y micas"
+  800  git s
+  801  ll
+  802  clear
+  803  git lg
+  804  clear
+  805  git lg
+  806  git reflog
+  807  clear
+  808  git s
+  809  git lg
+  810  clera
+  811  clear
+  812  git reflog
+  813  clear
+  814  git s
+  815  git status
+  816  git diff
+  817  git lg
+  818  git reset --soft d89480c
+  819  git s
+  820  git restore --staged contruir-elmundo.md
+  821  git s
+  822  ll
+  823  clear
+  824  git s
+  825  git add .
+  826  git s
+  827  git restore micas.md
+  828  gti s
+  829  clear
+  830  git s
+  831  git reset micas.md
+  832  git s
+  833  git commit -m "cambio de nombre y se agrego"
+  834  git s 
+  835  git add micas.md 
+  836  git s
+  837  git restore --staged micas.md
+  838  git s
+  839  git add .
+  840  git commit -m "Agregando micas.md"
+  841  git s
+  842  clear
+  843  git lg
+  844  q
+  845  clear
+  846  git s
+  847  ll
+  848  mkdir secret
+  849  vi secret/articulo.md
+  850  git s
+  851  vi .gitignore 
+  852  gti s
+  853  clear
+  854  git s
+  855  cat .gitignore 
+  856  ll
+  857  git add .gitignore 
+  858  git s
+  859  git commit -m "Agregando al gitignore una articulo en secret"
+  860  gti s
+  861  clear
+  862  git s
+  863  git lg
+  864  clear
+  865  cat .gitignore 
+  866  vi saber.log
+  867  git s
+  868  ll
+  869  cd ..
+  870  ll
+  871  cd tarea_fernando Herrera
+  872  cd Tarea_fernando\ Herrera/
+  873  ll
+  874  clar
+  875  clear
+  876  git s
+  877  ll
+  878  cd ..
+  879  cd Tarea_fernando\ Herrera/
+  880  git init
+  881  git s
+  882  cd ..
+  883  cd Tarea_fernando/
+  884  ll
+  885  git s
+  886  clear
+  887  ll
+  888  ls assets/
+  889  ll assets/
+  890  cd ..
+  891  ll
+  892  cd practica-udemy-09/
+  893  ll
+  894  clear
+  895  git branch
+  896  vi villanos.md
+  897  vi malvados.md
+  898  git s
+  899  git branch rama-villanos
+  900  git branch
+  901  git checkout rama-villanos 
+  902  git branch
+  903  git s
+  904  git add malvados.md 
+  905  git s
+  906  git commit -m "agregnao villanos"
+  907  git s
+  908  git lg
+  909  vi malvados.md 
+  910  git s
+  911  gti add .
+  912  git add .
+  913  git s
+  914  git add .
+  915  gti s
+  916  git s
+  917  git commit -m "agregando otro villano"
+  918  git s
+  919  git checkout master
+  920  git branch
+  921  clear
+  922  ll
+  923  cat malvados.md
+  924  clear
+  925  git branch
+  926  git merge rama-villanos 
+  927  ll
+  928  git lg
+  929  git checkout rama-villanos 
+  930  ll
+  931  git s
+  932  git branch -d rama-villanos -f
+  933  git branch
+  934  git checkout master
+  935  git branch -d rama-villanos -f
+  936  git s
+  937  git branch
+  938  git lg
+  939  git reflog
+  940  git checkout -b rama-nueva
+  941  git branch
+  942  ll
+  943  vi hola.md 
+  944  git add .
+  945  git commit -m "agregando contenido a hola"
+  946  clear
+  947  ll
+  948  git checkout master
+  949  git branch
+  950  vi hola.md 
+  951  git commit -am "agregando mas contenido ok"
+  952  git s
+  953  clear
+  954  git lg
+  955  clear
+  956  git branch
+  957  git merge rama-nueva 
+  958  vi hola.md 
+  959  git s
+  960  git add hola.md 
+  961  git s
+  962  git commit -m "Solucion de conflicto en union con rama nueva en hola"
+  963  git s
+  964  git lg
+  965  git checkout -b rama-conflicto
+  966  git branch
+  967  ll
+  968  vi heroes.md 
+  969  git commit -am "mejorando heroes"
+  970  git s
+  971  git lg
+  972  git branch asho
+  973  git branch
+  974  git checkout master
+  975  git branch
+  976  clear
+  977  git branch
+  978  git merge rama-conflicto
+  979  git s
+  980  ll
+  981  vi heroes.md 
+  982  git checkout rama-conflicto 
+  983  git s
+  984  vi heroes.md 
+  985  git commit -am "agregando mejoras a heroes"
+  986  git s
+  987  git checkout master
+  988  git merge rama-conflicto 
+  989  git lg
+  990  clear
+  991  git s
+  992  clear
+  993  git tag
+  994  git show
+  995  git show v2.0.0
+  996  git tag Mi amol
+  997  git tag super
+  998  git tag
+  999  clear
+ 1000  git lg
+ 1001  clear
+ 1002  git tag
+ 1003  git lg
+ 1004  git clear
+ 1005  git tag -a v4.32.1 f4523dd -m "Version mejorada"
+ 1006  git lg
+ 1007  git tag -a v1.3.3 345d7de "Version alga"
+ 1008  git tag -a v1.3.3 345d7de -m "Version alga"
+ 1009  git lg
+ 1010  git show v1.3.3
+ 1011  git tag
+ 1012  git branch
+ 1013  git branch manson
+ 1014  git branch
+ 1015  clear
+ 1016  historyu
+ 1017  history
+ 1018  clear
+ 1019  cd ..
+ 1020  ll
+ 1021  git s
+ 1022  clear
+ 1023  git s
+ 1024  ll
+ 1025  git ls
+ 1026  clear
+ 1027  ls 
+ 1028  ll
+ 1029  clear
+ 1030  exit
+ 1031  pwd
+ 1032  clear
+ 1033  ped
+ 1034  clear
+ 1035  pwd
+ 1036  cd Documents/
+ 1037  ll
+ 1038  cd practica-udemy-09/
+ 1039  clear
+ 1040  ll
+ 1041  git s
+ 1042  git branch
+ 1043  git lg
+ 1044  git s
+ 1045  git diff
+ 1046  git diff --staged
+ 1047  git tag
+ 1048  git show
+ 1049  ls -al
+ 1050  git tag
+ 1051  history
+ 1052  ll
+ 1053  vi misiones.md 
+ 1054  git s
+ 1055  git diff
+ 1056  git s
+ 1057  git status
+ 1058  code
+ 1059  clear
+ 1060  ll
+ 1061  clear
+ 1062  mylive.md
+ 1063  vi mylive.md
+ 1064  git s
+ 1065  git add mylive.md 
+ 1066  git s
+ 1067  git status
+ 1068  git commit
+ 1069  git s
+ 1070  git show
+ 1071  vi mylive.md 
+ 1072  git s
+ 1073  git diff
+ 1074  git lg
+ 1075  git diff 649bcac
+ 1076  git diff 41101cd 649bcac
+ 1077  git s
+ 1078  git commit -am "Mejorando lista"
+ 1079  git s
+ 1080  git lg
+ 1081  git diff 41101cd
+ 1082  git diff 41101cd e078c2f
+ 1083  git diff e078c2f 41101cd
+ 1084  git diff e078c2f
+ 1085  clear
+ 1086  git branch
+ 1087  git checkout asho
+ 1088  git branch
+ 1089  gits
+ 1090  clera
+ 1091  git s
+ 1092  git ls
+ 1093  ls
+ 1094  clear
+ 1095  ls
+ 1096  git log
+ 1097  clear
+ 1098  git lg
+ 1099  clear
+ 1100  exit
+ 1101  ll
+ 1102  cd pwd
+ 1103  pwd
+ 1104  cd Documents/
+ 1105  ll
+ 1106  cd practica-udemy-09/
+ 1107  ll
+ 1108  git s
+ 1109  clear
+ 1110  git stash list
+ 1111  git show
+ 1112  ll
+ 1113  clear
+ 1114  ls
+ 1115  git s
+ 1116  git status
+ 1117  git tag
+ 1118  git show super
+ 1119  git log
+ 1120  git s
+ 1121  git status
+ 1122  git branch
+ 1123  clear
+ 1124  git lg
+ 1125  git branch
+ 1126  ll
+ 1127  code .
+ 1128  clear
+ 1129  git checkout -b fernando
+ 1130  git branch
+ 1131  ll
+ 1132  git s
+ 1133  vi borrar.md 
+ 1134  git s
+ 1135  git diff
+ 1136  clear
+ 1137  git s
+ 1138  git rm -cached borrar.md 
+ 1139  gits
+ 1140  git s
+ 1141  git add .
+ 1142  git s
+ 1143  git rm -cached borrar.md 
+ 1144  git s
+ 1145  clear
+ 1146  ll
+ 1147  clera
+ 1148  asdfads
+ 1149  a
+ 1150  sdf
+ 1151  a
+ 1152  sdf
+ 1153  asd
+ 1154  git log --stat
+ 1155  git log
+ 1156  clera
+ 1157  git lg
+ 1158  git status -sb
+ 1159  git log --graph --oneline --all
+ 1160  git log --graph --oneline --all --decorate
+ 1161  clear
+ 1162  git branch
+ 1163  git s
+ 1164  ls
+ 1165  vi hola.md 
+ 1166  git s
+ 1167  git diff
+ 1168  git add .
+ 1169  git s
+ 1170  git commit -m "Mejorando borrar y hola"
+ 1171  git s
+ 1172  git lg
+ 1173  cd Documents/
+ 1174  ll
+ 1175  cd practica-udemy-09/
+ 1176  ll
+ 1177  clear
+ 1178  git lg
+ 1179  git reset --hard 158ba9e
+ 1180  git s
+ 1181  ll
+ 1182  git reset --hard 4c24baa
+ 1183  git s
+ 1184  ll
+ 1185  git s
+ 1186  git diff
+ 1187  git show
+ 1188  git branch
+ 1189  git add .
+ 1190  git s
+ 1191  git commit -m "agredando carpeta secret"
+ 1192  git s
+ 1193  git branch
+ 1194  git lg ciudades.md
+ 1195  git lg
+ 1196  git checkout master
+ 1197  git s
+ 1198  git lg
+ 1199  ll
+ 1200  git ckeckout fernando
+ 1201  git branch
+ 1202  git checkout fernando
+ 1203  ls
+ 1204  ll
+ 1205  clera
+ 1206  ll
+ 1207  git --config list
+ 1208  git lg --stat
+ 1209  ls
+ 1210  git log README.md
+ 1211  git checkout 05e3ae5 construir-elmundo.md
+ 1212  git lg
+ 1213  ls
+ 1214  git checkout da24862 misiones.md
+ 1215  git s
+ 1216  git log 88a423d
+ 1217  cat README.md
+ 1218  git checkout master misiones.md
+ 1219  git s
+ 1220  git diff
+ 1221  git log --stat misiones.md
+ 1222  git branch
+ 1223  git s
+ 1224  l
+ 1225  ls
+ 1226  l -a
+ 1227  clear
+ 1228  l
+ 1229  git log
+ 1230  clear
+ 1231  git lg
+ 1232  l
+ 1233  git reflog
+ 1234  git s
+ 1235  git reset HEAD
+ 1236  git s
+ 1237  l
+ 1238  vi productowrn.md
+ 1239  git s
+ 1240  vi README.md 
+ 1241  git s
+ 1242  git add .
+ 1243  git s
+ 1244  git reset HEAD
+ 1245  git s
+ 1246  rm README.md 
+ 1247  git s
+ 1248  git checkout README.md
+ 1249  git s
+ 1250  cat README.md 
+ 1251  vi README.md 
+ 1252  git s
+ 1253  git rm README.md 
+ 1254  git s
+ 1255  git rm --force README.md 
+ 1256  git s
+ 1257  cat README.md
+ 1258  git diff
+ 1259  git rm --cached
+ 1260  git s
+ 1261  git commit -m "Eliminando el README"
+ 1262  git s
+ 1263  git lg README.md
+ 1264  git lg
+ 1265  git checkout e078c2f README.md
+ 1266  git s
+ 1267  cat README.md 
+ 1268  vi README.md 
+ 1269  git s
+ 1270  git diff
+ 1271  cat README.md 
+ 1272  git diff
+ 1273  git diff --staged
+ 1274  git add README.md
+ 1275  git s
+ 1276  git diff
+ 1277  git diff --staged
+ 1278  git diff README.md
+ 1279  git diff
+ 1280  git commit -m "Se mejoro y reconstruyo el README"
+ 1281  git s
+ 1282  git lg README.md
+ 1283  git s
+ 1284  git add misiones.md 
+ 1285  git s
+ 1286  git rm --cached misiones.md 
+ 1287  git s
+ 1288  git diff
+ 1289  git diff --staged
+ 1290  git reset HEAD
+ 1291  git s
+ 1292  git diff
+ 1293  git s
+ 1294  clear
+ 1295  git lg
+ 1296  ls
+ 1297  l
+ 1298  clar
+ 1299  clear
+ 1300  git s
+ 1301  history
+ 1302  history > history.txt
