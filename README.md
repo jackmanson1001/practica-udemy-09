@@ -4,8 +4,11 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
 ## Notas
-1. Recordar la fecha de entrega del primer release.
-2. Agregar la lista de nuevas mejoras y observaciones del product owner.
+Pueden hacer lo que quieran...
 
 
 Cambios realizados en Git Hub
+
+# Mejoras en el sistema
+- Agregamos modulos
+- Agregamos incrementos
