@@ -1,8 +1,0 @@
-# LISTA DE LENGUAJES DE PROGRAMACION MAS USADOS
-- Java
-- Php
-- Python
-- C++
-- C
-- C#
-- 
