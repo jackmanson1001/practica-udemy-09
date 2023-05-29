@@ -10,3 +10,12 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 Cambios realizados en Git Hub
 Estos cambios son necesarios para continuar con la investigacion y el desarrollo.
+
+Ingresando mas datos a mi documento de Readme.
+
+# Mis subtitulos pueden ser mejores
+1. Iniciando lista de repo
+2. Canalizando lista de repo
+3. Escribiendo cualquier cosas solo para rellenar.
+4. El objetivo es practicar
+5. Mejora constante
