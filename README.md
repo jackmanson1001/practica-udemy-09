@@ -8,7 +8,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 2. Agregar la lista de nuevas mejoras y observaciones del product owner.
 
 
-Cambios realizados en Git Hub
 Estos cambios son necesarios para continuar con la investigacion y el desarrollo.
 
 Ingresando mas datos a mi documento de Readme.
