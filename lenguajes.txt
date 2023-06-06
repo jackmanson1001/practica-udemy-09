@@ -1,0 +1,9 @@
+# LISTA DE LENGUAGEES
+- Pho
+- Java
+- C
+- C++
+- Python
+- C#
+- javascript
+- 
