@@ -1,0 +1,111 @@
+total 152K
+4,0K drwxrwxr-x 20 ubuntu22 ubuntu22 4,0K Teg   5 08:12 .
+4,0K drwxr-xr-x 12 ubuntu22 ubuntu22 4,0K Teg   3 16:50 ..
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 12
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 123
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 23
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 3
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 341235
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 354
+4,0K drwxrwxr-x  8 ubuntu22 ubuntu22 4,0K Teg   5 00:19 .git
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 historia
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 17:12 Hola
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 16:07 js
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 15:59 miDirectorioPrueba
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   5 07:58 Pitagoras
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   5 07:58 Saber
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 17:12 Sabio
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   5 07:59 Sangre
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Keg  26 20:36 secret
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   5 07:59 SSa
+4,0K drwxrwxr-x  2 ubuntu22 ubuntu22 4,0K Teg   1 16:07 uploads
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  491 Teg   1 16:07 instalaciones.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  485 Teg   5 08:11 listaArchivos.txt
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  297 Teg   1 16:07 index.html
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  281 Teg   1 16:07 contacto.html
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  272 Teg   1 16:07 README.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  265 Teg   1 16:07 mapas.html
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  207 Keg  26 20:36 misiones.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  129 Teg   1 16:07 misiones-completadas.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22  107 Teg   1 16:07 notas.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   99 Teg   1 16:07 heroes.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   88 Teg   1 16:07 comentarios.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   77 Teg   1 16:07 villanos.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   63 Keg  26 20:36 ciudades.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   53 Teg   1 16:07 raiz.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   32 Teg   1 16:07 borrar.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   29 Teg   1 15:59 cara
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   27 Teg   1 15:59 sara.md
+4,0K -rw-rw-r--  1 ubuntu22 ubuntu22   22 Teg   1 15:59 .gitignore
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 brazo
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 dile3
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 17:08 file12346.md
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 17:08 file123.md
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 file13333.md
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 file2
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 17:08 file2354.md
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 file24
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 file25
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 file2_copia
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 16:07 history.txt
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 16:07 hola.md
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 index.ph
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 labios.com
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 leeme.md
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   5 08:12 misArchivos.md
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 pierna
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 pierna.html
+   0 -rw-rw-r--  1 ubuntu22 ubuntu22    0 Teg   1 15:59 readme.txt
+12
+123
+23
+3
+341235
+354
+borrar.md
+brazo
+cara
+ciudades.md
+comentarios.md
+contacto.html
+dile3
+file12346.md
+file123.md
+file13333.md
+file2
+file2354.md
+file24
+file25
+file2_copia
+heroes.md
+historia
+history.txt
+Hola
+hola.md
+index.html
+index.ph
+instalaciones.md
+js
+labios.com
+leeme.md
+listaArchivos.txt
+mapas.html
+miDirectorioPrueba
+misArchivos.md
+misiones-completadas.md
+misiones.md
+notas.md
+pierna
+pierna.html
+Pitagoras
+raiz.md
+README.md
+readme.txt
+Saber
+Sabio
+Sangre
+sara.md
+secret
+SSa
+uploads
+villanos.md
