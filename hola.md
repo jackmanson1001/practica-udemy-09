@@ -6,3 +6,4 @@ TE DAMOS LA BIENVENIDA A ESTA RAMA UNIDA DE LA RAMA NUEVA
 * Uniones automaticas - strategy recursive
 * Union de conflictos
 * Agregando iten
+* Agregando master 2
