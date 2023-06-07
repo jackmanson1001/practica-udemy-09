@@ -5,3 +5,4 @@ TE DAMOS LA BIENVENIDA A ESTA RAMA UNIDA DE LA RAMA NUEVA
 * Fast fordward
 * Uniones automaticas - strategy recursive
 * Union de conflictos
+* Agregando iten
