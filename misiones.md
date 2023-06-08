@@ -7,3 +7,5 @@
 6. Tratar de investigar que trama el Flash Reverso
 7. Agregando mision
 8. Lugar perfecto
+9. Investigar los planes de deadshop
+
