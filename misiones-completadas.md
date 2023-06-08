@@ -4,3 +4,6 @@
 * Investigar los trabajos del Joker
 * Tratar de investigar que trama el Flash Reverso
 * Agregando algo mas
+* Tratar de investigar que trama el Flash Reverso
+* Ganamos puntos
+
